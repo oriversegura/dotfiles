@@ -1,0 +1,245 @@
+2023-09-03 07:17:39.965 [info] Getting Manifest... aaron-bond.better-comments
+2023-09-03 07:17:39.966 [info] Getting Manifest... streetsidesoftware.code-spell-checker-spanish
+2023-09-03 07:17:39.966 [info] Getting Manifest... alefragnani.separators
+2023-09-03 07:17:39.966 [info] Getting Manifest... davidanson.vscode-markdownlint
+2023-09-03 07:17:39.966 [info] Getting Manifest... github.codespaces
+2023-09-03 07:17:39.967 [info] Getting Manifest... stylelint.vscode-stylelint
+2023-09-03 07:17:39.967 [info] Getting Manifest... usernamehw.errorlens
+2023-09-03 07:17:39.967 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2023-09-03 07:17:39.967 [info] Getting Manifest... esbenp.prettier-vscode
+2023-09-03 07:17:39.967 [info] Getting Manifest... pkief.material-icon-theme
+2023-09-03 07:17:39.967 [info] Getting Manifest... golang.go
+2023-09-03 07:17:39.968 [info] Getting Manifest... github.vscode-pull-request-github
+2023-09-03 07:17:39.968 [info] Getting Manifest... eamodio.gitlens
+2023-09-03 07:17:40.164 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-09-03 07:17:40.549 [info] Installing extension: github.vscode-pull-request-github
+2023-09-03 07:17:40.549 [info] Installing the extension without checking dependencies and pack github.vscode-pull-request-github
+2023-09-03 07:17:40.550 [info] Installing extension: github.codespaces
+2023-09-03 07:17:40.550 [info] Installing the extension without checking dependencies and pack github.codespaces
+2023-09-03 07:17:40.550 [info] Installing extension: davidanson.vscode-markdownlint
+2023-09-03 07:17:40.550 [info] Installing the extension without checking dependencies and pack davidanson.vscode-markdownlint
+2023-09-03 07:17:40.550 [info] Installing extension: alefragnani.separators
+2023-09-03 07:17:40.550 [info] Installing the extension without checking dependencies and pack alefragnani.separators
+2023-09-03 07:17:40.551 [info] Installing extension: pkief.material-icon-theme
+2023-09-03 07:17:40.551 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2023-09-03 07:17:40.552 [info] Installing extension: usernamehw.errorlens
+2023-09-03 07:17:40.552 [info] Installing the extension without checking dependencies and pack usernamehw.errorlens
+2023-09-03 07:17:40.552 [info] Installing extension: stylelint.vscode-stylelint
+2023-09-03 07:17:40.552 [info] Installing the extension without checking dependencies and pack stylelint.vscode-stylelint
+2023-09-03 07:17:40.552 [info] Installing extension: esbenp.prettier-vscode
+2023-09-03 07:17:40.552 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2023-09-03 07:17:40.553 [info] Installing extension: golang.go
+2023-09-03 07:17:40.553 [info] Installing the extension without checking dependencies and pack golang.go
+2023-09-03 07:17:40.553 [info] Installing extension: streetsidesoftware.code-spell-checker-spanish
+2023-09-03 07:17:40.554 [info] Installing the extension without checking dependencies and pack streetsidesoftware.code-spell-checker-spanish
+2023-09-03 07:17:40.554 [info] Installing extension: streetsidesoftware.code-spell-checker
+2023-09-03 07:17:40.554 [info] Installing the extension without checking dependencies and pack streetsidesoftware.code-spell-checker
+2023-09-03 07:17:40.554 [info] Installing extension: aaron-bond.better-comments
+2023-09-03 07:17:40.555 [info] Installing the extension without checking dependencies and pack aaron-bond.better-comments
+2023-09-03 07:17:40.555 [info] Installing extension: eamodio.gitlens
+2023-09-03 07:17:40.555 [info] Installing the extension without checking dependencies and pack eamodio.gitlens
+2023-09-03 07:17:40.555 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-09-03 07:17:40.556 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-es
+2023-09-03 07:17:46.749 [info] Extension signature is verified: pkief.material-icon-theme
+2023-09-03 07:17:46.785 [info] Extension signature is verified: aaron-bond.better-comments
+2023-09-03 07:17:46.787 [info] Extension signature is verified: alefragnani.separators
+2023-09-03 07:17:46.805 [info] Extension signature is verified: usernamehw.errorlens
+2023-09-03 07:17:47.033 [info] Extension signature is verified: stylelint.vscode-stylelint
+2023-09-03 07:17:47.836 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-es
+2023-09-03 07:17:47.837 [info] Extension signature is verified: streetsidesoftware.code-spell-checker-spanish
+2023-09-03 07:17:48.013 [info] Extension signature is verified: golang.go
+2023-09-03 07:17:48.127 [info] Extension signature is verified: streetsidesoftware.code-spell-checker
+2023-09-03 07:17:48.177 [info] Extracted extension to file:///home/osegura/.vscode/extensions/alefragnani.separators-2.5.0: alefragnani.separators
+2023-09-03 07:17:48.188 [info] Extracted extension to file:///home/osegura/.vscode/extensions/usernamehw.errorlens-3.13.0: usernamehw.errorlens
+2023-09-03 07:17:48.207 [info] Renamed to /home/osegura/.vscode/extensions/alefragnani.separators-2.5.0
+2023-09-03 07:17:48.225 [info] Renamed to /home/osegura/.vscode/extensions/usernamehw.errorlens-3.13.0
+2023-09-03 07:17:48.227 [info] Extracted extension to file:///home/osegura/.vscode/extensions/stylelint.vscode-stylelint-1.2.4: stylelint.vscode-stylelint
+2023-09-03 07:17:48.238 [info] Extracting extension completed. alefragnani.separators
+2023-09-03 07:17:48.248 [info] Extracting extension completed. usernamehw.errorlens
+2023-09-03 07:17:48.259 [info] Renamed to /home/osegura/.vscode/extensions/stylelint.vscode-stylelint-1.2.4
+2023-09-03 07:17:48.268 [info] Extension installed successfully: alefragnani.separators
+2023-09-03 07:17:48.294 [info] Extracting extension completed. stylelint.vscode-stylelint
+2023-09-03 07:17:48.299 [info] Extension installed successfully: usernamehw.errorlens
+2023-09-03 07:17:48.322 [info] Extension installed successfully: stylelint.vscode-stylelint
+2023-09-03 07:17:48.354 [info] Extracted extension to file:///home/osegura/.vscode/extensions/aaron-bond.better-comments-3.0.2: aaron-bond.better-comments
+2023-09-03 07:17:48.377 [info] Renamed to /home/osegura/.vscode/extensions/aaron-bond.better-comments-3.0.2
+2023-09-03 07:17:48.384 [info] Extracting extension completed. aaron-bond.better-comments
+2023-09-03 07:17:48.410 [info] Extension installed successfully: aaron-bond.better-comments
+2023-09-03 07:17:48.465 [info] Extracted extension to file:///home/osegura/.vscode/extensions/streetsidesoftware.code-spell-checker-spanish-2.2.0: streetsidesoftware.code-spell-checker-spanish
+2023-09-03 07:17:48.474 [info] Renamed to /home/osegura/.vscode/extensions/streetsidesoftware.code-spell-checker-spanish-2.2.0
+2023-09-03 07:17:48.493 [info] Extracting extension completed. streetsidesoftware.code-spell-checker-spanish
+2023-09-03 07:17:48.506 [info] Extension installed successfully: streetsidesoftware.code-spell-checker-spanish
+2023-09-03 07:17:48.730 [info] Extension signature is verified: eamodio.gitlens
+2023-09-03 07:17:48.897 [info] Extension signature is verified: esbenp.prettier-vscode
+2023-09-03 07:17:48.947 [info] Extension signature is verified: davidanson.vscode-markdownlint
+2023-09-03 07:17:48.966 [info] Extracted extension to file:///home/osegura/.vscode/extensions/golang.go-0.39.1: golang.go
+2023-09-03 07:17:49.009 [info] Renamed to /home/osegura/.vscode/extensions/golang.go-0.39.1
+2023-09-03 07:17:49.015 [info] Extension signature is verified: github.codespaces
+2023-09-03 07:17:49.020 [info] Extracting extension completed. golang.go
+2023-09-03 07:17:49.033 [info] Extension installed successfully: golang.go
+2023-09-03 07:17:49.049 [info] Extension signature is verified: github.vscode-pull-request-github
+2023-09-03 07:17:49.147 [info] Extracted extension to file:///home/osegura/.vscode/extensions/davidanson.vscode-markdownlint-0.51.0: davidanson.vscode-markdownlint
+2023-09-03 07:17:49.158 [info] Renamed to /home/osegura/.vscode/extensions/davidanson.vscode-markdownlint-0.51.0
+2023-09-03 07:17:49.164 [info] Extracting extension completed. davidanson.vscode-markdownlint
+2023-09-03 07:17:49.174 [info] Extension installed successfully: davidanson.vscode-markdownlint
+2023-09-03 07:17:49.211 [info] Extracted extension to file:///home/osegura/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.81.2023081609: ms-ceintl.vscode-language-pack-es
+2023-09-03 07:17:49.221 [info] Renamed to /home/osegura/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.81.2023081609
+2023-09-03 07:17:49.226 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2023-09-03 07:17:49.237 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-09-03 07:17:49.343 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2023-09-03 07:17:49.577 [info] Extracted extension to file:///home/osegura/.vscode/extensions/github.vscode-pull-request-github-0.70.0: github.vscode-pull-request-github
+2023-09-03 07:17:49.587 [info] Renamed to /home/osegura/.vscode/extensions/github.vscode-pull-request-github-0.70.0
+2023-09-03 07:17:49.596 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-09-03 07:17:49.606 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-09-03 07:17:49.620 [info] Extracted extension to file:///home/osegura/.vscode/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2023-09-03 07:17:49.627 [info] Renamed to /home/osegura/.vscode/extensions/esbenp.prettier-vscode-10.1.0
+2023-09-03 07:17:49.632 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-09-03 07:17:49.641 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-09-03 07:17:49.926 [info] Extracted extension to file:///home/osegura/.vscode/extensions/github.codespaces-1.15.0: github.codespaces
+2023-09-03 07:17:49.932 [info] Renamed to /home/osegura/.vscode/extensions/github.codespaces-1.15.0
+2023-09-03 07:17:49.937 [info] Extracting extension completed. github.codespaces
+2023-09-03 07:17:49.947 [info] Extension installed successfully: github.codespaces
+2023-09-03 07:17:50.102 [info] Extracted extension to file:///home/osegura/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.5: streetsidesoftware.code-spell-checker
+2023-09-03 07:17:50.110 [info] Renamed to /home/osegura/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.5
+2023-09-03 07:17:50.113 [info] Extracting extension completed. streetsidesoftware.code-spell-checker
+2023-09-03 07:17:50.121 [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+2023-09-03 07:17:50.199 [info] Extracted extension to file:///home/osegura/.vscode/extensions/eamodio.gitlens-14.2.1: eamodio.gitlens
+2023-09-03 07:17:50.213 [info] Renamed to /home/osegura/.vscode/extensions/eamodio.gitlens-14.2.1
+2023-09-03 07:17:50.227 [info] Extracting extension completed. eamodio.gitlens
+2023-09-03 07:17:50.244 [info] Extension installed successfully: eamodio.gitlens
+2023-09-03 07:17:50.433 [info] Extracted extension to file:///home/osegura/.vscode/extensions/pkief.material-icon-theme-4.30.1: pkief.material-icon-theme
+2023-09-03 07:17:50.467 [info] Renamed to /home/osegura/.vscode/extensions/pkief.material-icon-theme-4.30.1
+2023-09-03 07:17:50.469 [info] Extracting extension completed. pkief.material-icon-theme
+2023-09-03 07:17:50.522 [info] Extension installed successfully: pkief.material-icon-theme
+2023-09-03 07:17:52.942 [info] Getting Manifest... aaron-bond.better-comments
+2023-09-03 07:17:52.943 [info] Getting Manifest... alefragnani.separators
+2023-09-03 07:17:52.943 [info] Getting Manifest... github.codespaces
+2023-09-03 07:17:52.943 [info] Getting Manifest... golang.go
+2023-09-03 07:17:52.944 [info] Getting Manifest... pkief.material-icon-theme
+2023-09-03 07:17:52.944 [info] Getting Manifest... usernamehw.errorlens
+2023-09-03 07:17:52.944 [info] Getting Manifest... formulahendry.code-runner
+2023-09-03 07:17:52.945 [info] Getting Manifest... eamodio.gitlens
+2023-09-03 07:17:52.945 [info] Getting Manifest... github.vscode-pull-request-github
+2023-09-03 07:17:53.151 [info] Installing extension: aaron-bond.better-comments
+2023-09-03 07:17:53.152 [info] Installing the extension without checking dependencies and pack aaron-bond.better-comments
+2023-09-03 07:17:53.152 [info] Installing extension: alefragnani.separators
+2023-09-03 07:17:53.152 [info] Installing the extension without checking dependencies and pack alefragnani.separators
+2023-09-03 07:17:53.153 [info] Installing extension: github.codespaces
+2023-09-03 07:17:53.153 [info] Installing the extension without checking dependencies and pack github.codespaces
+2023-09-03 07:17:53.153 [info] Installing extension: pkief.material-icon-theme
+2023-09-03 07:17:53.154 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2023-09-03 07:17:53.154 [info] Installing extension: golang.go
+2023-09-03 07:17:53.154 [info] Installing the extension without checking dependencies and pack golang.go
+2023-09-03 07:17:53.154 [info] Installing extension: usernamehw.errorlens
+2023-09-03 07:17:53.154 [info] Installing the extension without checking dependencies and pack usernamehw.errorlens
+2023-09-03 07:17:53.155 [info] Installing extension: eamodio.gitlens
+2023-09-03 07:17:53.155 [info] Installing the extension without checking dependencies and pack eamodio.gitlens
+2023-09-03 07:17:53.156 [info] Installing extension: github.vscode-pull-request-github
+2023-09-03 07:17:53.156 [info] Installing the extension without checking dependencies and pack github.vscode-pull-request-github
+2023-09-03 07:17:53.156 [info] Installing extension: formulahendry.code-runner
+2023-09-03 07:17:53.157 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2023-09-03 07:17:55.945 [info] Extension signature is verified: aaron-bond.better-comments
+2023-09-03 07:17:55.948 [info] Extracting extension completed. aaron-bond.better-comments
+2023-09-03 07:17:55.957 [info] Extension installed successfully: aaron-bond.better-comments
+2023-09-03 07:17:56.436 [info] Extension signature is verified: alefragnani.separators
+2023-09-03 07:17:56.439 [info] Extracting extension completed. alefragnani.separators
+2023-09-03 07:17:56.448 [info] Extension installed successfully: alefragnani.separators
+2023-09-03 07:17:56.577 [info] Extension signature is verified: eamodio.gitlens
+2023-09-03 07:17:56.584 [info] Extracting extension completed. eamodio.gitlens
+2023-09-03 07:17:56.594 [info] Extension installed successfully: eamodio.gitlens
+2023-09-03 07:17:56.632 [info] Extension signature is verified: github.codespaces
+2023-09-03 07:17:56.641 [info] Extracting extension completed. github.codespaces
+2023-09-03 07:17:56.649 [info] Extension signature is verified: usernamehw.errorlens
+2023-09-03 07:17:56.650 [info] Extension installed successfully: github.codespaces
+2023-09-03 07:17:56.658 [info] Extracting extension completed. usernamehw.errorlens
+2023-09-03 07:17:56.670 [info] Extension installed successfully: usernamehw.errorlens
+2023-09-03 07:17:56.720 [info] Extension signature is verified: pkief.material-icon-theme
+2023-09-03 07:17:56.724 [info] Extracting extension completed. pkief.material-icon-theme
+2023-09-03 07:17:56.732 [info] Extension installed successfully: pkief.material-icon-theme
+2023-09-03 07:17:56.754 [info] Extension signature is verified: golang.go
+2023-09-03 07:17:56.757 [info] Extracting extension completed. golang.go
+2023-09-03 07:17:56.765 [info] Extension installed successfully: golang.go
+2023-09-03 07:17:56.790 [info] Extension signature is verified: github.vscode-pull-request-github
+2023-09-03 07:17:56.795 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-09-03 07:17:56.802 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-09-03 07:17:56.852 [info] Extension signature is verified: formulahendry.code-runner
+2023-09-03 07:17:56.961 [info] Extracted extension to file:///home/osegura/.vscode/extensions/formulahendry.code-runner-0.12.0: formulahendry.code-runner
+2023-09-03 07:17:56.967 [info] Renamed to /home/osegura/.vscode/extensions/formulahendry.code-runner-0.12.0
+2023-09-03 07:17:56.969 [info] Extracting extension completed. formulahendry.code-runner
+2023-09-03 07:17:56.982 [info] Extension installed successfully: formulahendry.code-runner
+2023-09-03 07:17:58.365 [info] Getting Manifest... ecmel.vscode-html-css
+2023-09-03 07:17:58.365 [info] Getting Manifest... zignd.html-css-class-completion
+2023-09-03 07:17:58.365 [info] Getting Manifest... ms-vscode.js-debug-nightly
+2023-09-03 07:17:58.365 [info] Getting Manifest... ms-vscode.vscode-typescript-next
+2023-09-03 07:17:58.366 [info] Getting Manifest... wallabyjs.quokka-vscode
+2023-09-03 07:17:58.558 [info] Installing extension: ecmel.vscode-html-css
+2023-09-03 07:17:58.558 [info] Installing the extension without checking dependencies and pack ecmel.vscode-html-css
+2023-09-03 07:17:58.559 [info] Installing extension: zignd.html-css-class-completion
+2023-09-03 07:17:58.559 [info] Installing the extension without checking dependencies and pack zignd.html-css-class-completion
+2023-09-03 07:17:58.559 [info] Installing extension: wallabyjs.quokka-vscode
+2023-09-03 07:17:58.559 [info] Installing the extension without checking dependencies and pack wallabyjs.quokka-vscode
+2023-09-03 07:17:58.559 [info] Installing extension: ms-vscode.vscode-typescript-next
+2023-09-03 07:17:58.560 [info] Installing the extension without checking dependencies and pack ms-vscode.vscode-typescript-next
+2023-09-03 07:17:58.560 [info] Installing extension: ms-vscode.js-debug-nightly
+2023-09-03 07:17:58.560 [info] Installing the extension without checking dependencies and pack ms-vscode.js-debug-nightly
+2023-09-03 07:18:03.010 [info] Extension signature is verified: ecmel.vscode-html-css
+2023-09-03 07:18:03.024 [info] Extracted extension to file:///home/osegura/.vscode/extensions/ecmel.vscode-html-css-1.13.1: ecmel.vscode-html-css
+2023-09-03 07:18:03.029 [info] Renamed to /home/osegura/.vscode/extensions/ecmel.vscode-html-css-1.13.1
+2023-09-03 07:18:03.031 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-09-03 07:18:03.038 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-09-03 07:18:03.276 [info] Extension signature is verified: ms-vscode.js-debug-nightly
+2023-09-03 07:18:03.375 [info] Extracted extension to file:///home/osegura/.vscode/extensions/ms-vscode.js-debug-nightly-2023.8.3017: ms-vscode.js-debug-nightly
+2023-09-03 07:18:03.388 [info] Renamed to /home/osegura/.vscode/extensions/ms-vscode.js-debug-nightly-2023.8.3017
+2023-09-03 07:18:03.397 [info] Extracting extension completed. ms-vscode.js-debug-nightly
+2023-09-03 07:18:03.507 [info] Extension installed successfully: ms-vscode.js-debug-nightly
+2023-09-03 07:18:04.536 [info] Extension signature is verified: zignd.html-css-class-completion
+2023-09-03 07:18:04.779 [info] Extension signature is verified: ms-vscode.vscode-typescript-next
+2023-09-03 07:18:04.972 [info] Extension signature is verified: wallabyjs.quokka-vscode
+2023-09-03 07:18:05.523 [info] Extracted extension to file:///home/osegura/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20230902: ms-vscode.vscode-typescript-next
+2023-09-03 07:18:06.534 [info] Extracted extension to file:///home/osegura/.vscode/extensions/zignd.html-css-class-completion-1.20.0: zignd.html-css-class-completion
+2023-09-03 07:18:07.579 [info] Extracted extension to file:///home/osegura/.vscode/extensions/wallabyjs.quokka-vscode-1.0.563: wallabyjs.quokka-vscode
+2023-09-03 07:18:07.683 [info] Renamed to /home/osegura/.vscode/extensions/ms-vscode.vscode-typescript-next-5.3.20230902
+2023-09-03 07:18:07.686 [info] Extracting extension completed. ms-vscode.vscode-typescript-next
+2023-09-03 07:18:07.687 [info] Renamed to /home/osegura/.vscode/extensions/zignd.html-css-class-completion-1.20.0
+2023-09-03 07:18:07.687 [info] Renamed to /home/osegura/.vscode/extensions/wallabyjs.quokka-vscode-1.0.563
+2023-09-03 07:18:07.692 [info] Extracting extension completed. zignd.html-css-class-completion
+2023-09-03 07:18:07.692 [info] Extracting extension completed. wallabyjs.quokka-vscode
+2023-09-03 07:18:07.698 [info] Extension installed successfully: ms-vscode.vscode-typescript-next
+2023-09-03 07:18:07.705 [info] Extension installed successfully: zignd.html-css-class-completion
+2023-09-03 07:18:07.718 [info] Extension installed successfully: wallabyjs.quokka-vscode
+2023-09-03 07:18:09.664 [info] Getting Manifest... kevinrose.vsc-python-indent
+2023-09-03 07:18:09.664 [info] Getting Manifest... usernamehw.errorlens
+2023-09-03 07:18:09.664 [info] Getting Manifest... formulahendry.code-runner
+2023-09-03 07:18:09.665 [info] Getting Manifest... ms-python.python
+2023-09-03 07:18:09.665 [info] Getting Manifest... ms-python.vscode-pylance
+2023-09-03 07:18:09.865 [info] Installing extension: usernamehw.errorlens
+2023-09-03 07:18:09.865 [info] Installing the extension without checking dependencies and pack usernamehw.errorlens
+2023-09-03 07:18:09.865 [info] Installing extension: formulahendry.code-runner
+2023-09-03 07:18:09.865 [info] Installing the extension without checking dependencies and pack formulahendry.code-runner
+2023-09-03 07:18:09.865 [info] Installing extension: kevinrose.vsc-python-indent
+2023-09-03 07:18:09.866 [info] Installing the extension without checking dependencies and pack kevinrose.vsc-python-indent
+2023-09-03 07:18:09.866 [info] Installing extension: ms-python.python
+2023-09-03 07:18:09.866 [info] Installing the extension without checking dependencies and pack ms-python.python
+2023-09-03 07:18:09.866 [info] Installing extension: ms-python.vscode-pylance
+2023-09-03 07:18:09.866 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2023-09-03 07:18:11.388 [info] Extension signature is verified: usernamehw.errorlens
+2023-09-03 07:18:11.391 [info] Extracting extension completed. usernamehw.errorlens
+2023-09-03 07:18:11.400 [info] Extension installed successfully: usernamehw.errorlens
+2023-09-03 07:18:11.520 [info] Extension signature is verified: formulahendry.code-runner
+2023-09-03 07:18:11.522 [info] Extracting extension completed. formulahendry.code-runner
+2023-09-03 07:18:11.531 [info] Extension installed successfully: formulahendry.code-runner
+2023-09-03 07:18:13.771 [info] Extension signature is verified: kevinrose.vsc-python-indent
+2023-09-03 07:18:13.796 [info] Extracted extension to file:///home/osegura/.vscode/extensions/kevinrose.vsc-python-indent-1.18.0: kevinrose.vsc-python-indent
+2023-09-03 07:18:13.972 [info] Renamed to /home/osegura/.vscode/extensions/kevinrose.vsc-python-indent-1.18.0
+2023-09-03 07:18:13.974 [info] Extracting extension completed. kevinrose.vsc-python-indent
+2023-09-03 07:18:14.411 [info] Extension installed successfully: kevinrose.vsc-python-indent
+2023-09-03 07:18:16.877 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-09-03 07:18:16.996 [info] Extension signature is verified: ms-python.python
+2023-09-03 07:18:20.016 [info] Extracted extension to file:///home/osegura/.vscode/extensions/ms-python.python-2023.14.0: ms-python.python
+2023-09-03 07:18:20.237 [info] Renamed to /home/osegura/.vscode/extensions/ms-python.python-2023.14.0
+2023-09-03 07:18:20.244 [info] Extracting extension completed. ms-python.python
+2023-09-03 07:18:20.374 [info] Extension installed successfully: ms-python.python
+2023-09-03 07:18:21.649 [info] Extracted extension to file:///home/osegura/.vscode/extensions/ms-python.vscode-pylance-2023.8.50: ms-python.vscode-pylance
+2023-09-03 07:18:21.724 [info] Renamed to /home/osegura/.vscode/extensions/ms-python.vscode-pylance-2023.8.50
+2023-09-03 07:18:21.724 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-09-03 07:18:21.738 [info] Extension installed successfully: ms-python.vscode-pylance

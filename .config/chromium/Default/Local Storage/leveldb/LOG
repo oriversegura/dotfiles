@@ -1,0 +1,15 @@
+2023/09/03-07:16:52.408 3 Reusing MANIFEST /home/osegura/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/09/03-07:16:52.410 3 Recovering log #43
+2023/09/03-07:16:52.411 3 Reusing old log /home/osegura/.config/chromium/Default/Local Storage/leveldb/000043.log 
+2023/09/03-07:21:23.520 3 Level-0 table #47: started
+2023/09/03-07:21:23.524 3 Level-0 table #47: 20027 bytes OK
+2023/09/03-07:21:23.530 3 Delete type=0 #43
+2023/09/03-07:21:23.530 3 Compacting 4@0 + 1@1 files
+2023/09/03-07:21:23.539 3 Generated table #48@0: 268 keys, 194429 bytes
+2023/09/03-07:21:23.539 3 Compacted 4@0 + 1@1 files => 194429 bytes
+2023/09/03-07:21:23.543 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/03-07:21:23.544 3 Delete type=2 #36
+2023/09/03-07:21:23.544 3 Delete type=2 #38
+2023/09/03-07:21:23.544 3 Delete type=2 #41
+2023/09/03-07:21:23.544 3 Delete type=2 #44
+2023/09/03-07:21:23.544 3 Delete type=2 #47

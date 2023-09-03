@@ -1,0 +1,86 @@
+[2023-09-03 06:17:12.370] [info]  [
+  '[App opened] - version: 1.5.8 - Meta: linux-x64, framework - 21.2.1, baseframework - 106.0.5249.165'
+]
+[2023-09-03 06:17:12.393] [info]  [
+  '{"appWindowState":{"maximized":true,"fullscreen":false,"bounds":"auto"},"enableSecurityFileWrite":true,"defaultMail":{"alwaysCheck":true},"appUpdater":{"autoCheck":true,"autoUpdateErrorCount":0},"spellcheck":true,"viewMenu":{"notificationBadge":true},"disableGPU":false}'
+]
+[2023-09-03 06:17:12.976] [info]  [
+  '[base-window] redirect-request',
+  'file:///tmp/.mount_zoho-mOhGtiL/resources/app.asar/app/window/privacyInformation/index.html'
+]
+[2023-09-03 06:17:14.602] [info]  [ 'preference update-oneTimeMessages-[object Object]' ]
+[2023-09-03 06:17:14.642] [info]  [ 'Close Window', 'privacy-window' ]
+[2023-09-03 06:17:15.015] [info]  Checking for update
+[2023-09-03 06:17:15.025] [info]  Generated new staging user ID: 429fb23c-ec7d-563c-b7e8-12db544b19d3
+[2023-09-03 06:17:15.211] [info]  [ 'login screen loaded' ]
+[2023-09-03 06:17:15.211] [info]  [
+  'loginWindow',
+  'did-navigate',
+  'https://accounts.zoho.com/signin?servicename=VirtualOffice&serviceurl=https://mail.zoho.com/zm/&hidesignup=true&hide_secure=true'
+]
+[2023-09-03 06:17:15.215] [info]  [
+  '[base-window] redirect-request',
+  'https://accounts.zoho.com/signin?servicename=VirtualOffice&serviceurl=https://mail.zoho.com/zm/&hidesignup=true&hide_secure=true'
+]
+[2023-09-03 06:17:15.452] [info]  Update for version 1.5.8 is not available (latest version: 1.5.8, downgrade is disallowed).
+[2023-09-03 06:17:17.241] [info]  [ 'login screen loaded' ]
+[2023-09-03 06:17:30.259] [info]  [ 'login screen loaded' ]
+[2023-09-03 06:17:30.260] [info]  [ 'loginWindow', 'will-navigate', 'https://mail.zoho.com/zm/' ]
+[2023-09-03 06:17:30.274] [info]  [ 'login Success', 'persist:session-partition1' ]
+[2023-09-03 06:17:30.309] [info]  [ 'Close Window', 'login' ]
+[2023-09-03 06:17:31.241] [info]  [ 'appWindow', 'did-navigate', 'https://mail.zoho.com/zm/' ]
+[2023-09-03 06:17:31.242] [info]  [ '[base-window] redirect-request', 'https://mail.zoho.com/zm/' ]
+[2023-09-03 06:17:31.267] [info]  [ 'preference update-downloadPreferences-[object Object]' ]
+[2023-09-03 06:17:32.373] [info]  [ 'Duplicate Account Cleaning - START' ]
+[2023-09-03 06:17:36.704] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:17:40.596] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:17:48.514] [info]  [ 'app window is ready for processing' ]
+[2023-09-03 06:17:48.525] [info]  [ 'appWindow', 'permission-check', [ 'notifications' ] ]
+[2023-09-03 06:17:50.312] [info]  [ 'appWindow', 'permission-check', [ 'geolocation' ] ]
+[2023-09-03 06:17:50.331] [info]  [ 'appWindow', 'permission-check', [ 'geolocation' ] ]
+[2023-09-03 06:17:53.274] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:17:53.275] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:17:53.279] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:17:53.279] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:17:53.455] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:17:53.455] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:17:53.554] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:17:53.554] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:18:23.899] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:18:23.938] [info]  [ 'All windows are closed' ]
+[2023-09-03 06:18:23.939] [info]  [ 'APP Switching on progress - ', false ]
+[2023-09-03 06:18:23.939] [info]  [ 'Close Window', 'app' ]
+[2023-09-03 06:29:24.695] [info]  [
+  '[App opened] - version: 1.5.8 - Meta: linux-x64, framework - 21.2.1, baseframework - 106.0.5249.165'
+]
+[2023-09-03 06:29:24.723] [info]  [
+  '{"appWindowState":{"maximized":true,"fullscreen":false,"bounds":{"x":0,"y":33,"width":1920,"height":1047}},"enableSecurityFileWrite":true,"defaultMail":{"alwaysCheck":true},"appUpdater":{"autoCheck":true,"autoUpdateErrorCount":0},"spellcheck":true,"viewMenu":{"notificationBadge":true},"disableGPU":false,"oneTimeMessages":{"publicSystems":1},"downloadPreferences":{"folderPath":"/home/osegura","askMeDownload":true}}'
+]
+[2023-09-03 06:29:25.464] [info]  Checking for update
+[2023-09-03 06:29:25.801] [info]  Update for version 1.5.8 is not available (latest version: 1.5.8, downgrade is disallowed).
+[2023-09-03 06:29:25.956] [info]  [ 'appWindow', 'did-navigate', 'https://mail.zoho.com/zm/' ]
+[2023-09-03 06:29:25.957] [info]  [ '[base-window] redirect-request', 'https://mail.zoho.com/zm/' ]
+[2023-09-03 06:29:26.063] [info]  [ 'Duplicate Account Cleaning - START' ]
+[2023-09-03 06:29:27.587] [info]  [ 'app window is ready for processing' ]
+[2023-09-03 06:29:27.604] [info]  [ 'appWindow', 'permission-check', [ 'notifications' ] ]
+[2023-09-03 06:29:28.058] [info]  [ 'appWindow', 'permission-check', [ 'geolocation' ] ]
+[2023-09-03 06:29:28.388] [info]  [ 'appWindow', 'permission-check', [ 'geolocation' ] ]
+[2023-09-03 06:29:30.404] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:29:30.405] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:29:30.405] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:29:30.406] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:29:30.487] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:29:30.584] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:29:30.585] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:29:30.769] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:29:30.770] [info]  [ 'appWindow', 'permission-check', [ 'media' ] ]
+[2023-09-03 06:29:48.103] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:29:48.454] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:30:01.042] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:30:01.435] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:30:07.665] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:30:08.055] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:35:46.219] [info]  [ 'preference update-appWindowState-[object Object]' ]
+[2023-09-03 06:35:46.259] [info]  [ 'All windows are closed' ]
+[2023-09-03 06:35:46.259] [info]  [ 'APP Switching on progress - ', false ]
+[2023-09-03 06:35:46.260] [info]  [ 'Close Window', 'app' ]

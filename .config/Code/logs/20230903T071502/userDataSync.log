@@ -1,0 +1,409 @@
+2023-09-03 07:15:03.671 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-09-03 07:15:03.671 [info] Auto Sync is disabled.
+2023-09-03 07:17:30.154 [info] Sync started.
+2023-09-03 07:17:30.693 [info] Did reset the local sync state.
+2023-09-03 07:17:30.705 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:30.706 [info] Settings: Last sync data state does not exist.
+2023-09-03 07:17:30.858 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:30.859 [info] Settings: Last sync data state does not exist.
+2023-09-03 07:17:30.947 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:30.948 [info] GlobalState: Last sync data state does not exist.
+2023-09-03 07:17:31.091 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:31.091 [info] Keybindings: Last sync data state does not exist.
+2023-09-03 07:17:31.215 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:31.216 [info] Snippets: Last sync data state does not exist.
+2023-09-03 07:17:31.335 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:31.335 [info] Tasks: Last sync data state does not exist.
+2023-09-03 07:17:31.460 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:31.460 [info] GlobalState: Last sync data state does not exist.
+2023-09-03 07:17:31.728 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:31.728 [info] Extensions: Last sync data state does not exist.
+2023-09-03 07:17:31.975 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:31.975 [info] Profiles: Last sync data state does not exist.
+2023-09-03 07:17:32.312 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:32.313 [info] Profiles: Last sync data state does not exist.
+2023-09-03 07:17:39.049 [info] Settings: Updated local settings
+2023-09-03 07:17:39.055 [info] Settings: Updated last synchronized settings
+2023-09-03 07:17:39.058 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-03 07:17:39.064 [info] Keybindings: Updated last synchronized keybindings
+2023-09-03 07:17:39.066 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-03 07:17:39.071 [info] Snippets: Updated last synchronized snippets
+2023-09-03 07:17:39.071 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-03 07:17:39.077 [info] Tasks: Updated last synchronized tasks
+2023-09-03 07:17:39.095 [info] GlobalState: Updated locale.
+2023-09-03 07:17:39.095 [info] GlobalState: Updated locale
+2023-09-03 07:17:39.096 [info] GlobalState: Updated global state ["nps/lastSessionDate","nps/sessionCount","workbench.welcomePage.hiddenCategories","workbench.view.extensions.state.hidden","workbench.telemetryOptOutShown","ces/skipSurvey","workbench.view.extension.liveshare.state.hidden","workbench.view.remote.state.hidden","remote.explorerType","commandPalette.mru.cache","commandPalette.mru.counter","~remote.forwardedPortsContainer.hidden","remote.tunnels.toRestore.ssh-remote+contauradev.undefined","workbench.view.extension.jupyter-variables.state.hidden","workbench.welcomePage.walkthroughMetadata","workbench.view.extension.test.state.hidden","workbench.view.extension.gitlens.state.hidden","workbench.view.extension.gitlensPanel.state.hidden","workbench.view.extension.gitlab-workflow.state.hidden","workbench.view.extension.gitlive.state.hidden","workbench.view.sync.state.hidden","workbench.view.extension.github-pull-requests.state.hidden","extensionTips/promptedExecutableTips","snippets.usageTimestamps","fileBasedRecommendations/promptedRecommendations","workbench.view.extension.jupyter.state.hidden","github-oriversegura","Comments.hidden","workbench.view.extension.wallaby.state.hidden","fileBasedRecommendations/promptedFileExtensions","workbench.view.extension.pymakr.state.hidden","terminal.integrated.showTerminalConfigPrompt","ces/remindLaterDate","remote.tunnels.toRestore.codespaces+oriversegura-animated-space-potato-wj6pq6gpp45h9q95.-1691942313","workbench.view.extension.github-pull-request.state.hidden","workbench.view.extension.gradleContainerView.state.hidden","workbench.view.extension.giteaIssues.state.hidden","http.linkProtectionTrustedDomains","workbench.view.extension.gitlensInspect.state.hidden","remoteTunnelServicePromptedPreview","remoteTunnelServiceUsed","userDataProfiles.state.hidden","workbench.view.extension.dockerView.state.hidden","workbench.view.extension.github-actions.state.hidden","remote.tunnels.toRestore.codespaces+turbo-enigma-74q6jqp6q7whjrw.-1343336427","remote.tunnels.toRestore.codespaces+vigilant-happiness-qgrj5rpjrr6cx4pq.714867127","workbench.explorer.views.state.hidden","workbench.scm.views.state.hidden","workbench.activity.pinnedViewlets2","workbench.view.debug.state.hidden","workbench.panel.pinnedPanels","colorThemeData","workbench.statusbar.hidden","memento/gettingStartedService","cpp.1.lastSessionDate","cpp.1.sessionCount","java.2.lastSessionDate","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","typescript.1.lastSessionDate","typescript.1.sessionCount","csharp.1.lastSessionDate","csharp.1.sessionCount"]
+2023-09-03 07:17:39.096 [info] GlobalState: Updated local ui state
+2023-09-03 07:17:39.101 [info] GlobalState: Updated last synchronized ui state
+2023-09-03 07:17:39.608 [info] Extensions: Skipped synchronizing extension because the extension is not found. ms-vsliveshare.vsliveshare-pack
+2023-09-03 07:17:39.678 [info] Extensions: Skipped synchronizing extension because the extension is not found. jeremyrajan.file-script-runner
+2023-09-03 07:17:50.525 [info] Extensions: Installed extension. alefragnani.separators 2.5.0
+2023-09-03 07:17:50.525 [info] Extensions: Installed extension. usernamehw.errorlens 3.13.0
+2023-09-03 07:17:50.525 [info] Extensions: Installed extension. stylelint.vscode-stylelint 1.2.4
+2023-09-03 07:17:50.525 [info] Extensions: Installed extension. aaron-bond.better-comments 3.0.2
+2023-09-03 07:17:50.526 [info] Extensions: Installed extension. streetsidesoftware.code-spell-checker-spanish 2.2.0
+2023-09-03 07:17:50.526 [info] Extensions: Installed extension. golang.go 0.39.1
+2023-09-03 07:17:50.526 [info] Extensions: Installed extension. davidanson.vscode-markdownlint 0.51.0
+2023-09-03 07:17:50.526 [info] Extensions: Installed extension. ms-ceintl.vscode-language-pack-es 1.81.2023081609
+2023-09-03 07:17:50.526 [info] Extensions: Installed extension. github.vscode-pull-request-github 0.70.0
+2023-09-03 07:17:50.526 [info] Extensions: Installed extension. esbenp.prettier-vscode 10.1.0
+2023-09-03 07:17:50.526 [info] Extensions: Installed extension. github.codespaces 1.15.0
+2023-09-03 07:17:50.526 [info] Extensions: Installed extension. streetsidesoftware.code-spell-checker 2.20.5
+2023-09-03 07:17:50.527 [info] Extensions: Installed extension. eamodio.gitlens 14.2.1
+2023-09-03 07:17:50.527 [info] Extensions: Installed extension. pkief.material-icon-theme 4.30.1
+2023-09-03 07:17:50.556 [info] Extensions: Updated last synchronized extensions. Skipped: ["ms-vsliveshare.vsliveshare-pack","jeremyrajan.file-script-runner"].
+2023-09-03 07:17:50.623 [info] Profiles: Created profile 'Go'.
+2023-09-03 07:17:50.625 [info] Profiles: Created profile 'HTML'.
+2023-09-03 07:17:50.628 [info] Profiles: Created profile 'Python'.
+2023-09-03 07:17:50.670 [info] Profiles: Updated last synchronized profiles.
+2023-09-03 07:17:50.695 [info] Syncing profile. Go
+2023-09-03 07:17:50.696 [info] Settings (Go): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:50.697 [info] Settings (Go): Last sync data state does not exist.
+2023-09-03 07:17:51.230 [info] Settings (Go): Updated local settings
+2023-09-03 07:17:51.234 [info] Settings (Go): Updated last synchronized settings
+2023-09-03 07:17:51.236 [info] Keybindings (Go): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:51.237 [info] Keybindings (Go): Last sync data state does not exist.
+2023-09-03 07:17:51.357 [info] Keybindings (Go): No changes found during synchronizing keybindings.
+2023-09-03 07:17:51.362 [info] Keybindings (Go): Updated last synchronized keybindings
+2023-09-03 07:17:51.364 [info] Snippets (Go): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:51.364 [info] Snippets (Go): Last sync data state does not exist.
+2023-09-03 07:17:51.476 [info] Snippets (Go): No changes found during synchronizing snippets.
+2023-09-03 07:17:51.481 [info] Snippets (Go): Updated last synchronized snippets
+2023-09-03 07:17:51.484 [info] Tasks (Go): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:51.484 [info] Tasks (Go): Last sync data state does not exist.
+2023-09-03 07:17:51.596 [info] Tasks (Go): No changes found during synchronizing tasks.
+2023-09-03 07:17:51.608 [info] Tasks (Go): Updated last synchronized tasks
+2023-09-03 07:17:51.610 [info] GlobalState (Go): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:51.610 [info] GlobalState (Go): Last sync data state does not exist.
+2023-09-03 07:17:52.020 [info] GlobalState (Go): Updated global state ["workbench.explorer.views.state.hidden","workbench.activity.pinnedViewlets2","workbench.panel.repl.hidden","workbench.panel.pinnedPanels","colorThemeData","workbench.view.extensions.state.hidden","workbench.welcomePage.walkthroughMetadata","workbench.panel.alignment"]
+2023-09-03 07:17:52.021 [info] GlobalState (Go): Updated local ui state
+2023-09-03 07:17:52.026 [info] GlobalState (Go): Updated last synchronized ui state
+2023-09-03 07:17:52.031 [info] Extensions (Go): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:52.031 [info] Extensions (Go): Last sync data state does not exist.
+2023-09-03 07:17:52.079 [info] Extensions (Go): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:52.079 [info] Extensions (Go): Last sync data state does not exist.
+2023-09-03 07:17:52.414 [info] Extensions (Go): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:52.414 [info] Extensions (Go): Last sync data state does not exist.
+2023-09-03 07:17:56.985 [info] Extensions (Go): Installed extension. aaron-bond.better-comments 3.0.2
+2023-09-03 07:17:56.985 [info] Extensions (Go): Installed extension. alefragnani.separators 2.5.0
+2023-09-03 07:17:56.985 [info] Extensions (Go): Installed extension. eamodio.gitlens 14.2.1
+2023-09-03 07:17:56.985 [info] Extensions (Go): Installed extension. github.codespaces 1.15.0
+2023-09-03 07:17:56.986 [info] Extensions (Go): Installed extension. usernamehw.errorlens 3.13.0
+2023-09-03 07:17:56.986 [info] Extensions (Go): Installed extension. pkief.material-icon-theme 4.30.1
+2023-09-03 07:17:56.986 [info] Extensions (Go): Installed extension. golang.go 0.39.1
+2023-09-03 07:17:56.986 [info] Extensions (Go): Installed extension. github.vscode-pull-request-github 0.70.0
+2023-09-03 07:17:56.986 [info] Extensions (Go): Installed extension. formulahendry.code-runner 0.12.0
+2023-09-03 07:17:56.990 [info] Extensions (Go): Updated last synchronized extensions.
+2023-09-03 07:17:56.993 [info] Syncing profile. HTML
+2023-09-03 07:17:56.993 [info] Settings (HTML): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:56.994 [info] Settings (HTML): Last sync data state does not exist.
+2023-09-03 07:17:57.156 [info] Settings (HTML): No changes found during synchronizing settings.
+2023-09-03 07:17:57.201 [info] Settings (HTML): Updated last synchronized settings
+2023-09-03 07:17:57.204 [info] Keybindings (HTML): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:57.205 [info] Keybindings (HTML): Last sync data state does not exist.
+2023-09-03 07:17:57.322 [info] Keybindings (HTML): No changes found during synchronizing keybindings.
+2023-09-03 07:17:57.327 [info] Keybindings (HTML): Updated last synchronized keybindings
+2023-09-03 07:17:57.329 [info] Snippets (HTML): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:57.329 [info] Snippets (HTML): Last sync data state does not exist.
+2023-09-03 07:17:57.452 [info] Snippets (HTML): No changes found during synchronizing snippets.
+2023-09-03 07:17:57.458 [info] Snippets (HTML): Updated last synchronized snippets
+2023-09-03 07:17:57.460 [info] Tasks (HTML): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:57.460 [info] Tasks (HTML): Last sync data state does not exist.
+2023-09-03 07:17:57.572 [info] Tasks (HTML): No changes found during synchronizing tasks.
+2023-09-03 07:17:57.578 [info] Tasks (HTML): Updated last synchronized tasks
+2023-09-03 07:17:57.579 [info] GlobalState (HTML): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:57.579 [info] GlobalState (HTML): Last sync data state does not exist.
+2023-09-03 07:17:57.849 [info] GlobalState (HTML): Updated global state ["workbench.panel.repl.hidden","workbench.panel.pinnedPanels","workbench.view.extensions.state.hidden","workbench.activity.pinnedViewlets2"]
+2023-09-03 07:17:57.849 [info] GlobalState (HTML): Updated local ui state
+2023-09-03 07:17:57.854 [info] GlobalState (HTML): Updated last synchronized ui state
+2023-09-03 07:17:57.856 [info] Extensions (HTML): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:17:57.856 [info] Extensions (HTML): Last sync data state does not exist.
+2023-09-03 07:18:07.720 [info] Extensions (HTML): Installed extension. ecmel.vscode-html-css 1.13.1
+2023-09-03 07:18:07.720 [info] Extensions (HTML): Installed extension. ms-vscode.js-debug-nightly 2023.8.3017
+2023-09-03 07:18:07.720 [info] Extensions (HTML): Installed extension. ms-vscode.vscode-typescript-next 5.3.20230902
+2023-09-03 07:18:07.720 [info] Extensions (HTML): Installed extension. zignd.html-css-class-completion 1.20.0
+2023-09-03 07:18:07.720 [info] Extensions (HTML): Installed extension. wallabyjs.quokka-vscode 1.0.563
+2023-09-03 07:18:07.723 [info] Extensions (HTML): Updated last synchronized extensions.
+2023-09-03 07:18:07.728 [info] Syncing profile. Python
+2023-09-03 07:18:07.728 [info] Settings (Python): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:18:07.728 [info] Settings (Python): Last sync data state does not exist.
+2023-09-03 07:18:07.954 [info] Settings (Python): No changes found during synchronizing settings.
+2023-09-03 07:18:08.053 [info] Settings (Python): Updated last synchronized settings
+2023-09-03 07:18:08.073 [info] Keybindings (Python): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:18:08.074 [info] Keybindings (Python): Last sync data state does not exist.
+2023-09-03 07:18:08.192 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2023-09-03 07:18:08.199 [info] Keybindings (Python): Updated last synchronized keybindings
+2023-09-03 07:18:08.200 [info] Snippets (Python): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:18:08.200 [info] Snippets (Python): Last sync data state does not exist.
+2023-09-03 07:18:08.319 [info] Snippets (Python): No changes found during synchronizing snippets.
+2023-09-03 07:18:08.324 [info] Snippets (Python): Updated last synchronized snippets
+2023-09-03 07:18:08.325 [info] Tasks (Python): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:18:08.325 [info] Tasks (Python): Last sync data state does not exist.
+2023-09-03 07:18:08.435 [info] Tasks (Python): No changes found during synchronizing tasks.
+2023-09-03 07:18:08.440 [info] Tasks (Python): Updated last synchronized tasks
+2023-09-03 07:18:08.441 [info] GlobalState (Python): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:18:08.441 [info] GlobalState (Python): Last sync data state does not exist.
+2023-09-03 07:18:08.713 [info] GlobalState (Python): Updated global state ["workbench.activity.pinnedViewlets2","workbench.explorer.views.state.hidden","workbench.panel.repl.hidden","workbench.panel.pinnedPanels","workbench.view.extensions.state.hidden","workbench.welcomePage.walkthroughMetadata","memento/gettingStartedService"]
+2023-09-03 07:18:08.714 [info] GlobalState (Python): Updated local ui state
+2023-09-03 07:18:08.781 [info] GlobalState (Python): Updated last synchronized ui state
+2023-09-03 07:18:08.783 [info] Extensions (Python): Migrating last sync user data. Resource does not exist.
+2023-09-03 07:18:08.783 [info] Extensions (Python): Last sync data state does not exist.
+2023-09-03 07:18:21.739 [info] Extensions (Python): Installed extension. usernamehw.errorlens 3.13.0
+2023-09-03 07:18:21.740 [info] Extensions (Python): Installed extension. formulahendry.code-runner 0.12.0
+2023-09-03 07:18:21.740 [info] Extensions (Python): Installed extension. kevinrose.vsc-python-indent 1.18.0
+2023-09-03 07:18:21.740 [info] Extensions (Python): Installed extension. ms-python.python 2023.14.0
+2023-09-03 07:18:21.741 [info] Extensions (Python): Installed extension. ms-python.vscode-pylance 2023.8.50
+2023-09-03 07:18:22.013 [info] Extensions (Python): Updated last synchronized extensions.
+2023-09-03 07:18:22.099 [info] Sync done. Took 51946ms
+2023-09-03 07:18:22.107 [info] Auto Sync: Triggered by Interval
+2023-09-03 07:18:22.107 [info] Sync started.
+2023-09-03 07:18:22.589 [info] Settings: Updated remote settings
+2023-09-03 07:18:22.595 [info] Settings: Updated last synchronized settings
+2023-09-03 07:18:22.599 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-03 07:18:22.603 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-03 07:18:22.605 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-03 07:18:23.073 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2,workbench.panel.pinnedPanels,memento/gettingStartedService.
+2023-09-03 07:18:23.079 [info] GlobalState: Updated last synchronized ui state
+2023-09-03 07:18:23.196 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-03 07:18:23.199 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-03 07:18:23.200 [info] Syncing profile. Go
+2023-09-03 07:18:23.205 [info] Settings (Go): No changes found during synchronizing settings.
+2023-09-03 07:18:23.209 [info] Keybindings (Go): No changes found during synchronizing keybindings.
+2023-09-03 07:18:23.211 [info] Snippets (Go): No changes found during synchronizing snippets.
+2023-09-03 07:18:23.213 [info] Tasks (Go): No changes found during synchronizing tasks.
+2023-09-03 07:18:23.220 [info] GlobalState (Go): No changes found during synchronizing ui state.
+2023-09-03 07:18:23.312 [info] Extensions (Go): No changes found during synchronizing extensions.
+2023-09-03 07:18:23.313 [info] Syncing profile. HTML
+2023-09-03 07:18:23.320 [info] Settings (HTML): No changes found during synchronizing settings.
+2023-09-03 07:18:23.324 [info] Keybindings (HTML): No changes found during synchronizing keybindings.
+2023-09-03 07:18:23.338 [info] Snippets (HTML): No changes found during synchronizing snippets.
+2023-09-03 07:18:23.341 [info] Tasks (HTML): No changes found during synchronizing tasks.
+2023-09-03 07:18:23.346 [info] GlobalState (HTML): No changes found during synchronizing ui state.
+2023-09-03 07:18:23.593 [info] Extensions (HTML): Updated remote extensions. Updated: ["wallabyjs.quokka-vscode"].
+2023-09-03 07:18:23.597 [info] Extensions (HTML): Updated last synchronized extensions.
+2023-09-03 07:18:23.599 [info] Syncing profile. Python
+2023-09-03 07:18:23.604 [info] Settings (Python): No changes found during synchronizing settings.
+2023-09-03 07:18:23.607 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2023-09-03 07:18:23.609 [info] Snippets (Python): No changes found during synchronizing snippets.
+2023-09-03 07:18:23.614 [info] Tasks (Python): No changes found during synchronizing tasks.
+2023-09-03 07:18:23.617 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2023-09-03 07:18:23.702 [info] Extensions (Python): No changes found during synchronizing extensions.
+2023-09-03 07:18:23.704 [info] Sync done. Took 1597ms
+2023-09-03 07:18:24.366 [info] Auto Sync: Triggered by Activity
+2023-09-03 07:18:24.366 [info] Sync started.
+2023-09-03 07:18:24.480 [info] Settings: No changes found during synchronizing settings.
+2023-09-03 07:18:24.484 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-03 07:18:24.488 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-03 07:18:24.490 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-03 07:18:24.496 [info] GlobalState: No changes found during synchronizing ui state.
+2023-09-03 07:18:24.581 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-03 07:18:24.583 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-03 07:18:24.584 [info] Syncing profile. Go
+2023-09-03 07:18:24.587 [info] Settings (Go): No changes found during synchronizing settings.
+2023-09-03 07:18:24.591 [info] Keybindings (Go): No changes found during synchronizing keybindings.
+2023-09-03 07:18:24.593 [info] Snippets (Go): No changes found during synchronizing snippets.
+2023-09-03 07:18:24.595 [info] Tasks (Go): No changes found during synchronizing tasks.
+2023-09-03 07:18:24.599 [info] GlobalState (Go): No changes found during synchronizing ui state.
+2023-09-03 07:18:24.681 [info] Extensions (Go): No changes found during synchronizing extensions.
+2023-09-03 07:18:24.681 [info] Syncing profile. HTML
+2023-09-03 07:18:24.683 [info] Settings (HTML): No changes found during synchronizing settings.
+2023-09-03 07:18:24.685 [info] Keybindings (HTML): No changes found during synchronizing keybindings.
+2023-09-03 07:18:24.687 [info] Snippets (HTML): No changes found during synchronizing snippets.
+2023-09-03 07:18:24.689 [info] Tasks (HTML): No changes found during synchronizing tasks.
+2023-09-03 07:18:24.692 [info] GlobalState (HTML): No changes found during synchronizing ui state.
+2023-09-03 07:18:24.768 [info] Extensions (HTML): No changes found during synchronizing extensions.
+2023-09-03 07:18:24.769 [info] Syncing profile. Python
+2023-09-03 07:18:24.771 [info] Settings (Python): No changes found during synchronizing settings.
+2023-09-03 07:18:24.773 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2023-09-03 07:18:24.775 [info] Snippets (Python): No changes found during synchronizing snippets.
+2023-09-03 07:18:24.776 [info] Tasks (Python): No changes found during synchronizing tasks.
+2023-09-03 07:18:24.780 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2023-09-03 07:18:24.850 [info] Extensions (Python): No changes found during synchronizing extensions.
+2023-09-03 07:18:24.851 [info] Sync done. Took 485ms
+2023-09-03 07:18:41.456 [info] Auto Sync: Triggered by Activity
+2023-09-03 07:18:41.456 [info] Sync started.
+2023-09-03 07:18:41.577 [info] Settings: No changes found during synchronizing settings.
+2023-09-03 07:18:41.582 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-03 07:18:41.586 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-03 07:18:41.589 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-03 07:18:42.020 [info] GlobalState: Updated remote ui state. Updated: workbench.panel.pinnedPanels.
+2023-09-03 07:18:42.028 [info] GlobalState: Updated last synchronized ui state
+2023-09-03 07:18:42.196 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-03 07:18:42.199 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-03 07:18:42.201 [info] Syncing profile. Go
+2023-09-03 07:18:42.206 [info] Settings (Go): No changes found during synchronizing settings.
+2023-09-03 07:18:42.213 [info] Keybindings (Go): No changes found during synchronizing keybindings.
+2023-09-03 07:18:42.215 [info] Snippets (Go): No changes found during synchronizing snippets.
+2023-09-03 07:18:42.218 [info] Tasks (Go): No changes found during synchronizing tasks.
+2023-09-03 07:18:42.222 [info] GlobalState (Go): No changes found during synchronizing ui state.
+2023-09-03 07:18:42.315 [info] Extensions (Go): No changes found during synchronizing extensions.
+2023-09-03 07:18:42.315 [info] Syncing profile. HTML
+2023-09-03 07:18:42.318 [info] Settings (HTML): No changes found during synchronizing settings.
+2023-09-03 07:18:42.321 [info] Keybindings (HTML): No changes found during synchronizing keybindings.
+2023-09-03 07:18:42.324 [info] Snippets (HTML): No changes found during synchronizing snippets.
+2023-09-03 07:18:42.326 [info] Tasks (HTML): No changes found during synchronizing tasks.
+2023-09-03 07:18:42.329 [info] GlobalState (HTML): No changes found during synchronizing ui state.
+2023-09-03 07:18:42.418 [info] Extensions (HTML): No changes found during synchronizing extensions.
+2023-09-03 07:18:42.420 [info] Syncing profile. Python
+2023-09-03 07:18:42.425 [info] Settings (Python): No changes found during synchronizing settings.
+2023-09-03 07:18:42.430 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2023-09-03 07:18:42.433 [info] Snippets (Python): No changes found during synchronizing snippets.
+2023-09-03 07:18:42.438 [info] Tasks (Python): No changes found during synchronizing tasks.
+2023-09-03 07:18:42.444 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2023-09-03 07:18:42.540 [info] Extensions (Python): No changes found during synchronizing extensions.
+2023-09-03 07:18:42.541 [info] Sync done. Took 1085ms
+2023-09-03 07:18:43.581 [info] Auto Sync: Triggered by Activity
+2023-09-03 07:18:43.582 [info] Sync started.
+2023-09-03 07:18:43.703 [info] Settings: No changes found during synchronizing settings.
+2023-09-03 07:18:43.706 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-03 07:18:43.710 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-03 07:18:43.713 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-03 07:18:43.717 [info] GlobalState: No changes found during synchronizing ui state.
+2023-09-03 07:18:43.814 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-03 07:18:43.815 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-03 07:18:43.817 [info] Syncing profile. Go
+2023-09-03 07:18:43.821 [info] Settings (Go): No changes found during synchronizing settings.
+2023-09-03 07:18:43.824 [info] Keybindings (Go): No changes found during synchronizing keybindings.
+2023-09-03 07:18:43.826 [info] Snippets (Go): No changes found during synchronizing snippets.
+2023-09-03 07:18:43.828 [info] Tasks (Go): No changes found during synchronizing tasks.
+2023-09-03 07:18:43.832 [info] GlobalState (Go): No changes found during synchronizing ui state.
+2023-09-03 07:18:43.919 [info] Extensions (Go): No changes found during synchronizing extensions.
+2023-09-03 07:18:43.920 [info] Syncing profile. HTML
+2023-09-03 07:18:43.922 [info] Settings (HTML): No changes found during synchronizing settings.
+2023-09-03 07:18:43.925 [info] Keybindings (HTML): No changes found during synchronizing keybindings.
+2023-09-03 07:18:43.927 [info] Snippets (HTML): No changes found during synchronizing snippets.
+2023-09-03 07:18:43.929 [info] Tasks (HTML): No changes found during synchronizing tasks.
+2023-09-03 07:18:43.932 [info] GlobalState (HTML): No changes found during synchronizing ui state.
+2023-09-03 07:18:44.011 [info] Extensions (HTML): No changes found during synchronizing extensions.
+2023-09-03 07:18:44.012 [info] Syncing profile. Python
+2023-09-03 07:18:44.014 [info] Settings (Python): No changes found during synchronizing settings.
+2023-09-03 07:18:44.017 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2023-09-03 07:18:44.019 [info] Snippets (Python): No changes found during synchronizing snippets.
+2023-09-03 07:18:44.022 [info] Tasks (Python): No changes found during synchronizing tasks.
+2023-09-03 07:18:44.025 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2023-09-03 07:18:44.109 [info] Extensions (Python): No changes found during synchronizing extensions.
+2023-09-03 07:18:44.110 [info] Sync done. Took 529ms
+2023-09-03 07:19:30.762 [info] Auto Sync: Triggered by Activity
+2023-09-03 07:19:30.763 [info] Sync started.
+2023-09-03 07:19:30.902 [info] Settings: No changes found during synchronizing settings.
+2023-09-03 07:19:30.906 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-03 07:19:30.908 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-03 07:19:30.911 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-03 07:19:30.915 [info] GlobalState: No changes found during synchronizing ui state.
+2023-09-03 07:19:31.018 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-03 07:19:31.019 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-03 07:19:31.020 [info] Syncing profile. Go
+2023-09-03 07:19:31.024 [info] Settings (Go): No changes found during synchronizing settings.
+2023-09-03 07:19:31.028 [info] Keybindings (Go): No changes found during synchronizing keybindings.
+2023-09-03 07:19:31.031 [info] Snippets (Go): No changes found during synchronizing snippets.
+2023-09-03 07:19:31.035 [info] Tasks (Go): No changes found during synchronizing tasks.
+2023-09-03 07:19:31.039 [info] GlobalState (Go): No changes found during synchronizing ui state.
+2023-09-03 07:19:31.135 [info] Extensions (Go): No changes found during synchronizing extensions.
+2023-09-03 07:19:31.136 [info] Syncing profile. HTML
+2023-09-03 07:19:31.138 [info] Settings (HTML): No changes found during synchronizing settings.
+2023-09-03 07:19:31.144 [info] Keybindings (HTML): No changes found during synchronizing keybindings.
+2023-09-03 07:19:31.147 [info] Snippets (HTML): No changes found during synchronizing snippets.
+2023-09-03 07:19:31.149 [info] Tasks (HTML): No changes found during synchronizing tasks.
+2023-09-03 07:19:31.152 [info] GlobalState (HTML): No changes found during synchronizing ui state.
+2023-09-03 07:19:31.239 [info] Extensions (HTML): No changes found during synchronizing extensions.
+2023-09-03 07:19:31.239 [info] Syncing profile. Python
+2023-09-03 07:19:31.242 [info] Settings (Python): No changes found during synchronizing settings.
+2023-09-03 07:19:31.245 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2023-09-03 07:19:31.247 [info] Snippets (Python): No changes found during synchronizing snippets.
+2023-09-03 07:19:31.249 [info] Tasks (Python): No changes found during synchronizing tasks.
+2023-09-03 07:19:31.253 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2023-09-03 07:19:31.332 [info] Extensions (Python): No changes found during synchronizing extensions.
+2023-09-03 07:19:31.333 [info] Sync done. Took 571ms
+2023-09-03 07:19:45.839 [info] Auto Sync: Triggered by Activity
+2023-09-03 07:19:45.839 [info] Sync started.
+2023-09-03 07:19:45.956 [info] Settings: No changes found during synchronizing settings.
+2023-09-03 07:19:45.961 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-03 07:19:45.963 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-03 07:19:45.965 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-03 07:19:45.972 [info] GlobalState: No changes found during synchronizing ui state.
+2023-09-03 07:19:46.083 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-03 07:19:46.085 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-03 07:19:46.086 [info] Syncing profile. Go
+2023-09-03 07:19:46.089 [info] Settings (Go): No changes found during synchronizing settings.
+2023-09-03 07:19:46.092 [info] Keybindings (Go): No changes found during synchronizing keybindings.
+2023-09-03 07:19:46.094 [info] Snippets (Go): No changes found during synchronizing snippets.
+2023-09-03 07:19:46.096 [info] Tasks (Go): No changes found during synchronizing tasks.
+2023-09-03 07:19:46.100 [info] GlobalState (Go): No changes found during synchronizing ui state.
+2023-09-03 07:19:46.205 [info] Extensions (Go): No changes found during synchronizing extensions.
+2023-09-03 07:19:46.206 [info] Syncing profile. HTML
+2023-09-03 07:19:46.209 [info] Settings (HTML): No changes found during synchronizing settings.
+2023-09-03 07:19:46.211 [info] Keybindings (HTML): No changes found during synchronizing keybindings.
+2023-09-03 07:19:46.213 [info] Snippets (HTML): No changes found during synchronizing snippets.
+2023-09-03 07:19:46.215 [info] Tasks (HTML): No changes found during synchronizing tasks.
+2023-09-03 07:19:46.218 [info] GlobalState (HTML): No changes found during synchronizing ui state.
+2023-09-03 07:19:46.300 [info] Extensions (HTML): No changes found during synchronizing extensions.
+2023-09-03 07:19:46.300 [info] Syncing profile. Python
+2023-09-03 07:19:46.302 [info] Settings (Python): No changes found during synchronizing settings.
+2023-09-03 07:19:46.305 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2023-09-03 07:19:46.306 [info] Snippets (Python): No changes found during synchronizing snippets.
+2023-09-03 07:19:46.308 [info] Tasks (Python): No changes found during synchronizing tasks.
+2023-09-03 07:19:46.311 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2023-09-03 07:19:46.388 [info] Extensions (Python): No changes found during synchronizing extensions.
+2023-09-03 07:19:46.391 [info] Sync done. Took 552ms
+2023-09-03 07:20:52.864 [info] Auto Sync: Triggered by Activity
+2023-09-03 07:20:52.864 [info] Sync started.
+2023-09-03 07:20:52.985 [info] Settings: No changes found during synchronizing settings.
+2023-09-03 07:20:52.990 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-03 07:20:52.992 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-03 07:20:52.995 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-03 07:20:52.998 [info] GlobalState: No changes found during synchronizing ui state.
+2023-09-03 07:20:53.117 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-03 07:20:53.123 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-03 07:20:53.124 [info] Syncing profile. Go
+2023-09-03 07:20:53.138 [info] Settings (Go): No changes found during synchronizing settings.
+2023-09-03 07:20:53.142 [info] Keybindings (Go): No changes found during synchronizing keybindings.
+2023-09-03 07:20:53.146 [info] Snippets (Go): No changes found during synchronizing snippets.
+2023-09-03 07:20:53.149 [info] Tasks (Go): No changes found during synchronizing tasks.
+2023-09-03 07:20:53.155 [info] GlobalState (Go): No changes found during synchronizing ui state.
+2023-09-03 07:20:53.279 [info] Extensions (Go): No changes found during synchronizing extensions.
+2023-09-03 07:20:53.279 [info] Syncing profile. HTML
+2023-09-03 07:20:53.282 [info] Settings (HTML): No changes found during synchronizing settings.
+2023-09-03 07:20:53.285 [info] Keybindings (HTML): No changes found during synchronizing keybindings.
+2023-09-03 07:20:53.287 [info] Snippets (HTML): No changes found during synchronizing snippets.
+2023-09-03 07:20:53.289 [info] Tasks (HTML): No changes found during synchronizing tasks.
+2023-09-03 07:20:53.291 [info] GlobalState (HTML): No changes found during synchronizing ui state.
+2023-09-03 07:20:53.393 [info] Extensions (HTML): No changes found during synchronizing extensions.
+2023-09-03 07:20:53.395 [info] Syncing profile. Python
+2023-09-03 07:20:53.397 [info] Settings (Python): No changes found during synchronizing settings.
+2023-09-03 07:20:53.399 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2023-09-03 07:20:53.401 [info] Snippets (Python): No changes found during synchronizing snippets.
+2023-09-03 07:20:53.402 [info] Tasks (Python): No changes found during synchronizing tasks.
+2023-09-03 07:20:53.405 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2023-09-03 07:20:53.486 [info] Extensions (Python): No changes found during synchronizing extensions.
+2023-09-03 07:20:53.486 [info] Sync done. Took 623ms
+2023-09-03 07:22:07.424 [info] Auto Sync: Triggered by Activity
+2023-09-03 07:22:07.425 [info] Sync started.
+2023-09-03 07:22:07.557 [info] Settings: No changes found during synchronizing settings.
+2023-09-03 07:22:07.561 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-03 07:22:07.565 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-03 07:22:07.568 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-03 07:22:07.574 [info] GlobalState: No changes found during synchronizing ui state.
+2023-09-03 07:22:07.684 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-03 07:22:07.686 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-03 07:22:07.687 [info] Syncing profile. Go
+2023-09-03 07:22:07.690 [info] Settings (Go): No changes found during synchronizing settings.
+2023-09-03 07:22:07.693 [info] Keybindings (Go): No changes found during synchronizing keybindings.
+2023-09-03 07:22:07.694 [info] Snippets (Go): No changes found during synchronizing snippets.
+2023-09-03 07:22:07.696 [info] Tasks (Go): No changes found during synchronizing tasks.
+2023-09-03 07:22:07.700 [info] GlobalState (Go): No changes found during synchronizing ui state.
+2023-09-03 07:22:07.811 [info] Extensions (Go): No changes found during synchronizing extensions.
+2023-09-03 07:22:07.812 [info] Syncing profile. HTML
+2023-09-03 07:22:07.815 [info] Settings (HTML): No changes found during synchronizing settings.
+2023-09-03 07:22:07.817 [info] Keybindings (HTML): No changes found during synchronizing keybindings.
+2023-09-03 07:22:07.819 [info] Snippets (HTML): No changes found during synchronizing snippets.
+2023-09-03 07:22:07.821 [info] Tasks (HTML): No changes found during synchronizing tasks.
+2023-09-03 07:22:07.823 [info] GlobalState (HTML): No changes found during synchronizing ui state.
+2023-09-03 07:22:07.901 [info] Extensions (HTML): No changes found during synchronizing extensions.
+2023-09-03 07:22:07.903 [info] Syncing profile. Python
+2023-09-03 07:22:07.905 [info] Settings (Python): No changes found during synchronizing settings.
+2023-09-03 07:22:07.907 [info] Keybindings (Python): No changes found during synchronizing keybindings.
+2023-09-03 07:22:07.908 [info] Snippets (Python): No changes found during synchronizing snippets.
+2023-09-03 07:22:07.910 [info] Tasks (Python): No changes found during synchronizing tasks.
+2023-09-03 07:22:07.913 [info] GlobalState (Python): No changes found during synchronizing ui state.
+2023-09-03 07:22:07.998 [info] Extensions (Python): No changes found during synchronizing extensions.
+2023-09-03 07:22:07.999 [info] Sync done. Took 575ms

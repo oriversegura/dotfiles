@@ -1,0 +1,6 @@
+2023-09-03 07:17:52.213 [warning] /home/osegura/.ssh/config: ENOENT: no such file or directory, open '/home/osegura/.ssh/config'
+2023-09-03 07:17:52.213 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/osegura/.config/Code/User/globalStorage/github.vscode-pull-request-github/temp'
+2023-09-03 07:17:52.247 [info] Looking for git repository
+2023-09-03 07:17:52.247 [info] Found 0 repositories during activation
+2023-09-03 07:17:52.247 [info] Git repository found, initializing review manager and pr tree view.
+2023-09-03 07:17:52.248 [info] Registering git provider

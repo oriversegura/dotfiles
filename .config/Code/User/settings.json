@@ -1,0 +1,50 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'MesloLGS NF'",
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.accessibilitySupport": "off",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.quickSuggestions": {
+        "comments": "on"
+    },
+    "editor.suggest.preview": true,
+    "editor.fontSize": 15,
+    "settingsSync.ignoredExtensions": [
+ 
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.editorAssociations": {
+        "*.jar": "default",
+        "*.pyc": "default"
+    },
+    "git.enableSmartCommit": true,
+    "workbench.settings.applyToAllProfiles": [
+        "github-enterprise.uri"
+    ],
+    "github.codespaces.defaultExtensions": [
+
+        "GitHub.codespaces",
+    ],
+    "github.codespaces.createCodespaceInNewWindow": true,
+    "gitea.instanceURL": "http://10.11.11.115:3002",
+    "gitea.owner": "osegura",
+    "gitea.sslVerify": false,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "cSpell.caseSensitive": true,
+    "cSpell.language": "es",
+    "workbench.startupEditor": "none"
+    
+}

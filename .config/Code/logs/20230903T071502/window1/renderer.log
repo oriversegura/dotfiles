@@ -1,0 +1,4 @@
+2023-09-03 07:15:06.391 [info] [perf] Render performance baseline is 44ms
+2023-09-03 07:17:30.127 [info] Settings Sync: Updated current session 9e8e9db7ab4135fb
+2023-09-03 07:17:57.958 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.settingsSync
+2023-09-03 07:17:59.033 [info] [lifecycle]: Shutdown was prevented (id: veto.settingsSync)

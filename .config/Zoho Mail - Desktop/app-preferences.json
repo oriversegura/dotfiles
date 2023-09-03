@@ -1,0 +1,32 @@
+{
+	"appWindowState": {
+		"maximized": true,
+		"fullscreen": false,
+		"bounds": {
+			"x": 1920,
+			"y": 33,
+			"width": 1920,
+			"height": 1047
+		}
+	},
+	"enableSecurityFileWrite": true,
+	"defaultMail": {
+		"alwaysCheck": true
+	},
+	"appUpdater": {
+		"autoCheck": true,
+		"autoUpdateErrorCount": 0
+	},
+	"spellcheck": true,
+	"viewMenu": {
+		"notificationBadge": true
+	},
+	"disableGPU": false,
+	"oneTimeMessages": {
+		"publicSystems": 1
+	},
+	"downloadPreferences": {
+		"folderPath": "/home/osegura",
+		"askMeDownload": true
+	}
+}

@@ -1,2 +1,3 @@
-2023/09/03-06:17:12.664 6c6d Creating DB /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Local Storage/leveldb since it was missing.
-2023/09/03-06:17:12.671 6c6d Reusing MANIFEST /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Local Storage/leveldb/MANIFEST-000001
+2024/01/31-10:38:42.399 5e93 Reusing MANIFEST /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Local Storage/leveldb/MANIFEST-000001
+2024/01/31-10:38:42.400 5e93 Recovering log #3
+2024/01/31-10:38:42.400 5e93 Reusing old log /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Local Storage/leveldb/000003.log 

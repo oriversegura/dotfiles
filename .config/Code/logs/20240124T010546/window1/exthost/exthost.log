@@ -1,0 +1,6 @@
+2024-01-24 01:05:48.833 [info] Extension host with pid 11623 started
+2024-01-24 01:05:48.833 [info] Skipping acquiring lock for /home/osegura/.config/Code/User/workspaceStorage/33a0083c295c5a3b15446005a8c5e668.
+2024-01-24 01:05:48.882 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-24 01:05:48.913 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-24 01:05:48.917 [info] Extension host with pid 11623 exiting with code 0
+2024-01-24 01:05:48.920 [info] Eager extensions activated

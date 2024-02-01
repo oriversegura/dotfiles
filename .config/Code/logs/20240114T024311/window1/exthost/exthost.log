@@ -1,0 +1,23 @@
+2024-01-14 02:43:14.829 [info] Extension host with pid 3314 started
+2024-01-14 02:43:14.964 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-14 02:43:15.011 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-14 02:43:15.147 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-14 02:43:15.343 [info] Eager extensions activated
+2024-01-14 02:43:15.366 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-14 02:43:15.378 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-14 02:43:29.667 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-14 02:43:29.678 [info] Extension host with pid 3314 exiting with code 0
+2024-01-14 02:43:30.825 [info] Extension host with pid 3515 started
+2024-01-14 02:43:30.825 [info] Skipping acquiring lock for /home/osegura/.config/Code/User/workspaceStorage/1e626bcbf3a410ff64343ba37940c84e.
+2024-01-14 02:43:30.841 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-01-14 02:43:30.855 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-14 02:43:30.880 [info] Eager extensions activated
+2024-01-14 02:43:30.887 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-14 02:43:30.893 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-14 02:43:33.703 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-01-14 02:43:39.948 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-01-14 02:43:40.004 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-14 02:44:10.877 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-01-14 02:44:10.900 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-01-14 02:44:10.986 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-01-14 02:48:39.388 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

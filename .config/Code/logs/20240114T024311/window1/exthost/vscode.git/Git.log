@@ -1,0 +1,45 @@
+2024-01-14 02:43:15.353 [info] Log level: Info
+2024-01-14 02:43:15.353 [info] Validating found git in: "git"
+2024-01-14 02:43:15.353 [info] Using git "2.42.0" from "git"
+2024-01-14 02:43:33.797 [info] Log level: Info
+2024-01-14 02:43:33.797 [info] Validating found git in: "git"
+2024-01-14 02:43:33.797 [info] Using git "2.42.0" from "git"
+2024-01-14 02:43:33.802 [info] > git rev-parse --show-toplevel [11ms]
+2024-01-14 02:43:33.802 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:43:33.812 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-14 02:43:33.812 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:43:33.821 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-14 02:43:33.821 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:43:33.828 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-14 02:43:33.828 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:43:33.838 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-14 02:43:33.838 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:43:33.845 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-14 02:43:33.845 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:43:39.875 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-14 02:43:39.875 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:44:10.841 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-14 02:44:10.841 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:44:27.300 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-14 02:44:27.300 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:44:28.228 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-14 02:44:28.228 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:44:28.707 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-14 02:44:28.707 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:44:29.188 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-14 02:44:29.188 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:44:29.617 [info] > git rev-parse --show-toplevel [3ms]
+2024-01-14 02:44:29.617 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-01-14 02:48:39.305 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-14 02:48:39.313 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-01-14 02:48:39.327 [info] Open repository: /home/osegura/hyprland-dots
+2024-01-14 02:48:39.342 [info] > git config --get commit.template [8ms]
+2024-01-14 02:48:39.342 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-01-14 02:48:39.352 [info] > git status -z -uall [2ms]
+2024-01-14 02:48:39.366 [info] > git config --get commit.template [3ms]
+2024-01-14 02:48:39.376 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-01-14 02:48:39.384 [info] > git status -z -uall [2ms]
+2024-01-14 02:48:39.837 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-14 03:11:45.662 [info] > git config --get commit.template [9ms]
+2024-01-14 03:11:45.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Sakura refs/remotes/Sakura [3ms]
+2024-01-14 03:11:46.074 [info] > git status -z -uall [403ms]

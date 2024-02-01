@@ -1,3 +1,3 @@
-2023/09/03-06:29:24.988 1bb5 Reusing MANIFEST /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Local Storage/leveldb/MANIFEST-000001
-2023/09/03-06:29:24.988 1bb5 Recovering log #3
-2023/09/03-06:29:24.991 1bb5 Reusing old log /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Local Storage/leveldb/000003.log 
+2024/01/31-11:11:36.743 17af Reusing MANIFEST /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Local Storage/leveldb/MANIFEST-000001
+2024/01/31-11:11:36.744 17af Recovering log #3
+2024/01/31-11:11:36.744 17af Reusing old log /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Local Storage/leveldb/000003.log 

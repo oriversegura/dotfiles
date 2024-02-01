@@ -1,2 +1,3 @@
-2023/09/03-06:17:14.681 6c82 Creating DB /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Session Storage since it was missing.
-2023/09/03-06:17:14.690 6c82 Reusing MANIFEST /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Session Storage/MANIFEST-000001
+2024/01/31-10:38:43.966 5e93 Reusing MANIFEST /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Session Storage/MANIFEST-000001
+2024/01/31-10:38:43.966 5e93 Recovering log #3
+2024/01/31-10:38:43.966 5e93 Reusing old log /home/osegura/.config/Zoho Mail - Desktop/Partitions/session-partition1/Session Storage/000003.log 

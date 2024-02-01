@@ -6,28 +6,28 @@ theme='style'
 
 # CMDs
 uptime="`uptime -p | sed -e 's/up //g'`"
-host=`cat /etc/hostname`
+host=`hostname`
 
 # Options
-shutdown=' Shutdown'
-reboot=' Reboot'
-lock=' Lock'
-suspend='  Suspend'
-logout='  Logout'
-yes='וֹ Yes'
-no='תּ No'
+shutdown=''
+reboot=''
+lock=''
+suspend=' '
+logout=' '
+yes=' '
+no=''
 
 # Rofi CMD
 rofi_cmd() {
 	rofi -dmenu \
-		-p "$host" \
+		-p "Uptime: $uptime" \
 		-mesg "Uptime: $uptime" \
 		-theme ${dir}/${theme}.rasi
 }
 
 # Confirmation CMD
 confirm_cmd() {
-	rofi -theme-str 'window {location: center; anchor: center; fullscreen: false; width: 250px;}' \
+	rofi -theme-str 'window {location: center; anchor: center; fullscreen: false; width: 350px;}' \
 		-theme-str 'mainbox {children: [ "message", "listview" ];}' \
 		-theme-str 'listview {columns: 2; lines: 1;}' \
 		-theme-str 'element-text {horizontal-align: 0.5;}' \
@@ -61,18 +61,18 @@ run_cmd() {
 			amixer set Master mute
 			systemctl suspend
 		elif [[ $1 == '--logout' ]]; then
-			if [[ "$DESKTOP_SESSION" == 'openbox' ]]; then
-				openbox --exit
-			elif [[ "$DESKTOP_SESSION" == 'bspwm' ]]; then
-				bspc quit
-			elif [[ "$DESKTOP_SESSION" == 'i3' ]]; then
-				i3-msg exit
-			elif [[ "$DESKTOP_SESSION" == 'plasma' ]]; then
-				qdbus org.kde.ksmserver /KSMServer logout 0 0 0
-			elif [[ "$DESKTOP_SESSION" == 'hyprland' ]]; then
+            if [[ "$DESKTOP_SESSION" == 'openbox' ]]; then
+                openbox --exit
+            elif [[ "$DESKTOP_SESSION" == 'bspwm' ]]; then
+                bspc quit
+            elif [[ "$DESKTOP_SESSION" == 'i3' ]]; then
+                i3-msg exit
+            elif [[ "$DESKTOP_SESSION" == 'plasma' ]]; then
+                qdbus org.kde.ksmserver /KSMServer logout 0 0 0
+            elif [[ "$DESKTOP_SESSION" == 'hyprland' ]]; then
                 hyprctl dispatch exit 1
-			fi
-		fi
+            fi
+        fi
 	else
 		exit 0
 	fi
@@ -92,8 +92,6 @@ case ${chosen} in
 			betterlockscreen -l
 		elif [[ -x '/usr/bin/i3lock' ]]; then
 			i3lock
-		elif [[ -x '/usr/bin/Hyprland' ]]; then
-		  swaylock	
 		fi
         ;;
     $suspend)
@@ -103,3 +101,4 @@ case ${chosen} in
 		run_cmd --logout
         ;;
 esac
+
